@@ -1,0 +1,10 @@
+When you initialize a git repository you
+create a new repository and the associated
+hidden files. You must commit all of the
+necessary files to the new repository as it
+does not automatically do this when you 
+initialize the git repository.
+
+The staging area allows you to specify
+exactly what files you want to add to a
+specific commit.
