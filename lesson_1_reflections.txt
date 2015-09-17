@@ -1,0 +1,34 @@
+By using version control you can easily spot
+the differences between two versions of the
+same program. This will allow you to easily
+spot bugs if they arise from an accidental
+change of the code.
+
+By having easy access to the entire history
+of a file you can easily go back and see all
+of the different iterations that were tried.
+This allows you to not repeat past mistakes
+or inefficiencies.
+
+A manual commit allows you to create commits
+at the best times and after meaningful changes
+have been made. Automatic commits are better
+if you are forgetful but may create commits 
+at insignificant or confusing times.
+
+Google Docs does not know which files should
+be kept together; however, as Git was designed
+expressly for code and most coding projects
+involve more than one file, it allows saving
+multiple files in one commit.
+
+You use git log to see all of the commits. And
+you use git diff to view the changes between two
+commits.
+
+Version control allows you to be much more
+comfortable when making changes as you are able
+to easily revert to a functioning state.
+
+I want to start using Git for keeping track of
+the changes I made to my code.
